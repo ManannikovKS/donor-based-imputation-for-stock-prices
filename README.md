@@ -18,5 +18,5 @@ Compared to simple linear interpolation, the approach reduces error by ~25%.
 
 - ~25% improvement over linear interpolation (RMSE).  
 - Stable performance even with higher missing rates.  
-
+- Works well even with relatively small training sets.  
 ---
