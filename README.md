@@ -1,7 +1,7 @@
 # Donor-Based Imputation for Stock Prices
 
 This project develops a machine learning method to impute missing values in adjusted close prices.  
-Compared to simple linear interpolation, the approach reduces error by ~20% for single gaps.
+Compared to simple linear interpolation, the approach reduces error by ~25%.
 
 ---
 
@@ -16,7 +16,7 @@ Compared to simple linear interpolation, the approach reduces error by ~20% for 
 
 ## Results
 
-- ~20% improvement over linear interpolation (RMSE).  
+- ~25% improvement over linear interpolation (RMSE).  
 - Stable performance even with higher missing rates.  
 
 ---
